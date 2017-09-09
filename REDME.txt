@@ -1,0 +1,5 @@
+ElectronicalCube
+
+Display random number from 1 to 6 on LED's
+
+This Cube has 7 LED's which display random number. LED in the middle is used as a button, when click the button, then atmega 8 will wake up from a sleep state and display random number. After few seconds it will go to sleep again.
